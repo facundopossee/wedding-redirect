@@ -4,7 +4,7 @@ module.exports = {
     return [
       {
         source: "/",
-        destination: "https://facuyeve.pic-time.com",
+        destination: "https://eveyfacu.pic-time.com",
         permanent: false,
       },
     ];
